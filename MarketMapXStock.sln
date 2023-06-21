@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRx", "UniRx.csproj", "{F2BBE250-E011-9E8D-9996-5B06F5B23386}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{55EFF104-0162-1F11-2B0F-FF1B10AE3CD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{F2BBE250-E011-9E8D-9996-5B06F5B23386}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2BBE250-E011-9E8D-9996-5B06F5B23386}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2BBE250-E011-9E8D-9996-5B06F5B23386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55EFF104-0162-1F11-2B0F-FF1B10AE3CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EFF104-0162-1F11-2B0F-FF1B10AE3CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EFF104-0162-1F11-2B0F-FF1B10AE3CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EFF104-0162-1F11-2B0F-FF1B10AE3CD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
